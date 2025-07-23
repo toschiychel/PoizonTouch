@@ -1,0 +1,47 @@
+# Backend
+/backend/vendor/
+/backend/storage/*
+!/backend/storage/.gitignore
+/backend/.env
+/backend/.phpunit.result.cache
+/backend/.DS_Store
+/backend/.idea/
+/backend/tmp/
+/backend/CACHED
+/backend/ERROR
+/backend/CANCELED
+/backend/@php
+/backend/[app
+/backend/[internal]
+/backend/[scheduler
+/backend/[web
+/backend/=
+/backend/transferring
+/backend/reading
+
+# Frontend
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.env
+/frontend/.DS_Store
+/frontend/.idea/
+/frontend/.vscode/
+
+# Docker artifacts
+**/*.pid
+**/*.sock
+**/coverage/
+**/logs/
+**/storage/logs/
+**/.phpunit.result.cache
+
+# System
+.DS_Store
+.env
+.env.*
+*.log
+*.key
+*.crt
+*.pem
+*.swp
+*.swo

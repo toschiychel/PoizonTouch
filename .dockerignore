@@ -1,0 +1,15 @@
+cat > /srv/.dockerignore << 'EOF'
+# игнорируем временные папки и БД-данные
+backend/tmp/
+# кеши зависимостей
+backend/vendor/
+frontend/node_modules/
+# логи и артефакты сборки
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# git
+.git
+.gitignore
+EOF
