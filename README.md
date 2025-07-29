@@ -54,7 +54,7 @@ PoizonTouch — это коммерческий агрегатор товаро�
 ## 👤 Автор
 
 Разработка: toschiy  
-Telegram: [@toschiy](https://t.me/prodbytoschiy)
+Telegram: [@prodbytoschiy](https://t.me/prodbytoschiy)
 
 ## 📄 Лицензия
 
