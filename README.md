@@ -1,11 +1,11 @@
 # PoizonTouch
 
-![Laravel]
-![Vue.js]
-![Docker]
-![PHP]
-![MySQL]
-![API]
+![Laravel](https://img.shields.io/badge/Laravel-11-red)
+![Vue.js](https://img.shields.io/badge/Vue-3-brightgreen)
+![Docker](https://img.shields.io/badge/Docker-enabled-blue)
+![PHP](https://img.shields.io/badge/PHP-8.3-blueviolet)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-005C84)
+![API](https://img.shields.io/badge/API-RESTful-yellow)
 
 
 PoizonTouch — это коммерческий агрегатор товаров из Китая с возможностью отслеживания заказов и полноценным интернет-магазином, если товар уже находится на складе в РФ. Проект изначально разрабатывался под конкретного заказчика, но после закрытия бизнеса остался как часть портфолио.
